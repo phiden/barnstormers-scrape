@@ -1,0 +1,12 @@
+body {
+  width: 95%;
+  margin: 0 auto;
+  font-family: Arial, sans-serif; }
+  body main #data-container {
+    width: 90%; }
+    body main #data-container .ad {
+      border: 1px solid blue;
+      padding: 20px;
+      margin-bottom: 20px; }
+
+/*# sourceMappingURL=style.css.map */
